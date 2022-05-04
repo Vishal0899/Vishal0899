@@ -1,6 +1,10 @@
 <div> <img width="100%" height="300px" src="https://t4.ftcdn.net/jpg/03/08/69/75/360_F_308697506_9dsBYHXm9FwuW0qcEqimAEXUvzTwfzwe.jpg"> </div>
 <h1 align="center">Hi 👋, I'm Vishal Sayaji Pokale</h1>
-<h3 align="center">A Full-Stack developer from India</h3>
+<!-- <h3 align="center">A Full-Stack developer from India</h3> -->
+<h3 align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=A+Full-Stack+developer+from+India;Competitive+Programmer;ACPC+2021+Finalist;DS%20|%20Algorithms%20|%20OOP%20;Specialist%20on%20Codeforces;Division%202%20on%20Codechef%20(3%20Stars);6%20Kyu%20on%20Atcoder;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
+</h3>
+
 <h2>About me :</h2>
 <p>From my childhood, I was enthusiastic about mobile phones and electronics so I chose to be an Electronics and Telecommunications.
 In my first year of Engineering, I was introduced to C programming, where I run my first code which was Hello world.
