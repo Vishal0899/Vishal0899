@@ -33,6 +33,9 @@ In Masai School, Till Now I have completed hands-on projects by using HTML, CSS,
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=vishal0899&show_icons=true&locale=en&layout=compact&theme=dark" alt="vishal0899" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vishal0899&show_icons=true&locale=en&theme=dark" alt="vishal0899" /></p>
+  
+  
+  <a href="http://www.github.com/Vishal0899"><img src="https://activity-graph.herokuapp.com/graph?username=Vishal0899&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vishal0899&theme=dark" alt="vishal0899" /></p>
 </div>
