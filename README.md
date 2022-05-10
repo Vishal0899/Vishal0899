@@ -6,13 +6,7 @@
 </h2>
 
 <h2>About me :</h2>
-<p>From my childhood, I was enthusiastic about mobile phones and electronics so I chose to be an Electronics and Telecommunications.
-In my first year of Engineering, I was introduced to C programming, where I run my first code which was Hello world.
-It was fun to see printing things on a terminal, which are in my mind.
-After that, I was introduced to HTML and CSS.
-when I saw the output of the first HTML file on the browser, I fell in love with it.
-After completing my Engineering, for gaining more practical skills and to learn MERN stack, I joined the Masai School.
-In Masai School, Till Now I have completed hands-on projects by using HTML, CSS, JavaScript.</p>
+<p>I am Aspiring, Analytical, Observant and detail-oriented Full-Stack Web Developer with a specialization in MERN stack. Self-motivated and curious, with a keen interest in building user-centric products. Capable of writing code in frontend by using HTML, CSS, React.js, JavaScript. And at Backend using Express.js Node.js and MongoDB Database. I am passionate about Coding and strongly interested in working to enhance my career in very good organization and also to use my skills to bring out the best of the organization.</p>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vishal0899&label=Profile%20views&color=0e75b6&style=flat" alt="vishal0899" /> </p>
 
