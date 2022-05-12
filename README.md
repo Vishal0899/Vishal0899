@@ -1,4 +1,4 @@
-<div> <img width="100%" height="350px" src="https://t4.ftcdn.net/jpg/03/08/69/75/360_F_308697506_9dsBYHXm9FwuW0qcEqimAEXUvzTwfzwe.jpg"> </div>
+<div> <img width="100%" height="450px" src="https://t4.ftcdn.net/jpg/03/08/69/75/360_F_308697506_9dsBYHXm9FwuW0qcEqimAEXUvzTwfzwe.jpg"> </div>
 <h1 align="center">Hi 👋, I'm Vishal Sayaji Pokale</h1>
 <!-- <h3 align="center">A Full-Stack developer from India</h3> -->
 <h2 align="center">
