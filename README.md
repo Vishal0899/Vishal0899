@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Vishal Sayaji Pokale</h1>
 <!-- <h3 align="center">A Full-Stack developer from India</h3> -->
 <h2 align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=I+am+a+Full-Stack+Web+Developer;I+am+a+MERN+Stack+Web+Developer;An+Enthusiast+,+Code+Lover+and+Life-Long+Learner|&center=true&width=500&height=50"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=I+am+a+Full-Stack+Web+Developer;I+am+a+MERN+Stack+Web+Developer;An+Enthusiast,+Code+Lover+and+Life-Long+Learner|&center=true&width=550&height=50"></a>
 </h2>
 
 <h2>About me :</h2>
