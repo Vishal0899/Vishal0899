@@ -10,13 +10,15 @@
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vishal0899&label=Profile%20views&color=0e75b6&style=flat" alt="vishal0899" /> </p>
 
-- 🔭 I’m currently Pursuing **Full-Stack Development**
+- 🔭 I’m currently working on **Full-Stack Development**
 
-- 🌱 I’m currently learning **MERN Stack**
+- 🌱 I’m currently learning **MERN stack**
 
-- 💬 Ask me about **React and JavaScript**
+- 👯 I’m looking to collaborate on **Linkdin and Github**
 
-- 📫 Reach out to me at **vishalpokale0499@gmail.com**
+- 💬 Ask me about **MERN related stuff**
+
+- 📫 How to reach me **vishalpokale0499@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
