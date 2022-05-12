@@ -1,8 +1,8 @@
-<div> <img width="100%" height="300px" src="https://t4.ftcdn.net/jpg/03/08/69/75/360_F_308697506_9dsBYHXm9FwuW0qcEqimAEXUvzTwfzwe.jpg"> </div>
+<div> <img width="100%" height="350px" src="https://t4.ftcdn.net/jpg/03/08/69/75/360_F_308697506_9dsBYHXm9FwuW0qcEqimAEXUvzTwfzwe.jpg"> </div>
 <h1 align="center">Hi 👋, I'm Vishal Sayaji Pokale</h1>
 <!-- <h3 align="center">A Full-Stack developer from India</h3> -->
 <h2 align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=I+am+a+Full-Stack+Web+Developer;I+am+a+MERN+Stack+Web+Developer|&center=true&width=500&height=50"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=I+am+a+Full-Stack+Web+Developer;I+am+a+MERN+Stack+Web+Developer;An+Enthusiast+,+Code+Lover+and+Life-Long+Learner|&center=true&width=500&height=50"></a>
 </h2>
 
 <h2>About me :</h2>
