@@ -6,7 +6,7 @@
 </h2>
 
 <h2>About me :</h2>
-<p>I am Aspiring, Analytical, Observant and detail-oriented Full-Stack Web Developer with a specialization in MERN stack. Self-motivated and curious, with a keen interest in building user-centric products. Capable of writing code in frontend by using HTML, CSS, React.js, JavaScript. And at Backend using Express.js Node.js and MongoDB Database. I am passionate about Coding and strongly interested in working to enhance my career in very good organization and also to use my skills to bring out the best of the organization.</p>
+<p>I am an Aspiring, Analytical, Observant and detail-oriented Full-Stack Web Developer with a specialization in MERN stack. Self-motivated and curious, with a keen interest in building user-centric products. Capable of writing code in frontend by using HTML, CSS, React.js, JavaScript. And at Backend using Express.js Node.js and MongoDB Database. I am passionate about coding and strongly interested in working to enhance my career in a very good organization and also to use my skills to bring out the best of the organization.</p>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 
